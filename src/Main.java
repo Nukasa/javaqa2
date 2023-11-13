@@ -10,7 +10,7 @@ public class Main {
         // новую переменную и выводите на экран
         int price = 15500;
         int amout = 20;
-                int bonus = price/amout;
-        System.out.println ("итоговый бонус:"+bonus );
+        int bonus = price/amout;
+        System.out.println ("итоговый бонус:"+ bonus);
     }
 }
